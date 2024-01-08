@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #e9ebee;
+  color: #1d2129;
+}
+
+.navbar {
+  color: #ffffff;
+  padding: 10px;
+  background: #4167b2;
+}
+
+.I
+order: 1px solid hsl(216, 8%, 88%);
+}
